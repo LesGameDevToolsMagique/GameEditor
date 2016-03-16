@@ -7,8 +7,8 @@ port = 12321
 s.connect((host, port))
 
 print("Welcome to the interactive Key/Press/Discover game !")
-print("Type exit to exit the game (r just ctrl+c :()")
-print("Type a key on your keyboard to discover things")
+print("Type exit to exit the game or just ctrl+c :()")
+print("Type a word on your keyboard to discover things")
 
 key= ""
 
