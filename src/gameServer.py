@@ -19,8 +19,7 @@ class JSONSearchHandler:
         for command in JSONdata:
             if (command['key'] == rule):
                 return (command['response'])
-            else:
-                return('0')
+        return('0')
 
 class SingleTCPHandler(socketserver.BaseRequestHandler):
     "One instance per connection.  Override handle(self) to customize action."

@@ -1,4 +1,6 @@
 {"commands":
 [
-    {"key": "S", "response": "Snake incoming Oo"}
+    {"key": "S", "response": "Snake incoming Oo"},
+    {"key": "420", "response": "Blaze it"},
+    {"key": "WHOAMI", "response": "I'm Ethan Bradberry !"}
 ]}
