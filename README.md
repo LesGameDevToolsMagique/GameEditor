@@ -26,7 +26,7 @@ Game Coding guys add a feature into the code base, after sufficient testing, the
 
 - Architecture
 
-TO DO
+![alt architecture](https://raw.githubusercontent.com/LesGameDevToolsMagique/GameEditor/master/tool2.png)
 
 - Details of Components
 
