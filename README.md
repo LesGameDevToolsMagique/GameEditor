@@ -10,7 +10,9 @@ This is a project for Beijing Jiatong University in Game Tool Developement
 
 - Problems
 
-TO DO
+The client and the game editor have to be seperated.
+The client must not be disconnected during his game if an update has been done.
+The server must never be shutdown when an update has been done.
 
 - Goals
 
@@ -28,8 +30,15 @@ TO DO
 
 - Details of Components
 
-TO DO
+Server language: Python
+Client language: Python
+Editor language: CPP + Qt
+Storage: JSON
 
 - Milestones
 
-TO DO
+v0.0.1: Storage
+v0.1.0: Server
+v0.2.0: Game
+v0.3.0: Game editor
+v1.0.0: All fonctionnal game with server and game editor
